@@ -15,3 +15,4 @@ pyglet==1.4.1
 line_profiler
 flake8
 pycodestyle_magic
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
